@@ -1,0 +1,17 @@
+package com.ict.code;
+
+public class stringEx {
+	public static void main(String[] args) {
+		String Ename="scott";
+		int Eid=100;
+		String EemailId="scott123@gmail.com";
+		long Econtact=9019827163l;
+		double Esal=30000;
+		System.out.println(Ename);
+		System.out.println(Eid);
+		System.out.println(EemailId);
+		System.out.println(Econtact);
+		System.out.println(Esal);
+	}
+
+}

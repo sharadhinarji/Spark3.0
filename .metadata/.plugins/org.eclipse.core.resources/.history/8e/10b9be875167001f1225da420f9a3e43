@@ -1,0 +1,12 @@
+package com.ict.code;
+
+public class Functions {
+	public static void main(String[] args) {
+		System.out.println("hi by function");
+	}
+	static void Hello() {
+		System.out.println("hello by function method");
+		
+	}
+
+}

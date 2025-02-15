@@ -1,0 +1,14 @@
+package com.ict.code;
+
+public class FirstProgram {
+	
+
+	public static void main(String[] args) {
+		int age=
+		System.out.println(sum);
+		
+		// TODO Auto-generated method stub
+
+	}
+
+}

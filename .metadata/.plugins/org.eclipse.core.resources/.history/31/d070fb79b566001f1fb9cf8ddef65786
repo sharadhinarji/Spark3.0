@@ -1,0 +1,9 @@
+package com.ict.code;
+
+public class arrayEx2 {
+	public static void main(String[] args) {
+		int arr[]= {12,34,56,35,5,45,46};
+		System.out.println(arr);
+	}
+
+}
